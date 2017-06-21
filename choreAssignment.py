@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# choreAssignment.py - Randomly assisgns chores to people and emails them about it
+# choreAssignment.py - Randomly assigns chores to people and emails them about it
 
 import sys
 import os, smtplib, random
